@@ -1,0 +1,18 @@
+[
+  {
+    "username": "Jirjatss",
+    "email": "sajadhijir@gmail.com",
+    "password": "sajad",
+    "phoneNumber": "081233623106",
+    "role": "Super Admin",
+    "address": "Sumbawa"
+  },
+  {
+    "username": "Iam",
+    "email": "masiam@gmail.com",
+    "password": "masiam",
+    "role": "Super Admin",
+    "phoneNumber": "081233623106",
+    "address": "Jakarta"
+  }
+]
