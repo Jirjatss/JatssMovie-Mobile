@@ -2,7 +2,7 @@
 
 Aplikasi mobile untuk memudahkan eksplorasi film, dengan referensi dari IMDb
 
-<img width="947" alt="image" src="http://tinyurl.com/bdd6skzu">
+<img width="947" alt="image" src="https://media.licdn.com/dms/image/D562DAQEKp8zpRSpEvg/profile-treasury-image-shrink_800_800/0/1703252557344?e=1704186000&v=beta&t=c875IW9CFZsrMZlrnNAEw-2kUxkXcAULvtjb0-OPgxo">
 
 ## Tech Stack
 
